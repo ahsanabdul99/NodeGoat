@@ -1,3 +1,4 @@
+// update config
 // Temporary config — do not commit to production
 module.exports = {
   jwt: {
