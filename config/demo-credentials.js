@@ -15,7 +15,6 @@ module.exports = {
     apiKey: "SG.abc123def456.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   }
 
-    jwt: {
-    secret: "MySuperSecretJWTKey_doNotShare_20267687!"
-  },
+  githubToken: "ghp_A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8"
+
 };
