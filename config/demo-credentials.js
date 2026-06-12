@@ -14,4 +14,8 @@ module.exports = {
   sendgrid: {
     apiKey: "SG.abc123def456.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   }
+
+    jwt: {
+    secret: "MySuperSecretJWTKey_doNotShare_20267687!"
+  },
 };
